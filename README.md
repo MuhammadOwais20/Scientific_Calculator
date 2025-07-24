@@ -1,18 +1,10 @@
-# 🧮 Scientific Calculator in C
-
-## 📚 Project Overview
-
-This is our first group-based project where we designed a **Scientific Calculator** using the C programming language. The calculator is capable of performing **20+ mathematical operations**, helping us explore and implement core computational logic without any graphical interface.
-
----
-
-## 💡 Problem Statement
+# Scientific Calculator in C
 
 A standard calculator performs only basic functions and lacks advanced capabilities required in scientific and academic work. We aimed to develop a scientific calculator with extended functionality that supports operations such as logarithms, trigonometric calculations, derivatives, quadratic equations, and more—using structured and modular C programming.
 
 ---
 
-## 🔧 Features
+## Features
 
 - **Basic Arithmetic**: Addition, Subtraction, Multiplication, Division  
 - **Powers and Roots**: Square, Cube, Power, Square Root  
@@ -28,12 +20,13 @@ A standard calculator performs only basic functions and lacks advanced capabilit
 
 ---
 
----
+## How to Run
 
-## 🧪 How to Run
-
-### 🖥️ On Linux/Windows Terminal:
+### On Linux/Windows Terminal:
 
 1. **Compile the code**:
    ```bash
    gcc calculator.c -o calculator -lm
+
+   
+---
